@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WeHelp_Introduciton/static/css/main.f3b23c00.css",
+    "main.js": "/WeHelp_Introduciton/static/js/main.b5996389.js",
+    "index.html": "/WeHelp_Introduciton/index.html",
+    "main.f3b23c00.css.map": "/WeHelp_Introduciton/static/css/main.f3b23c00.css.map",
+    "main.b5996389.js.map": "/WeHelp_Introduciton/static/js/main.b5996389.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b23c00.css",
+    "static/js/main.b5996389.js"
+  ]
+}
